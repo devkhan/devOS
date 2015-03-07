@@ -1,3 +1,15 @@
+# Binaries
+
+*.bin
+
+# Object codes
+
+*.o
+
+# Backup files
+
+*~*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
